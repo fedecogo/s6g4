@@ -1,0 +1,26 @@
+#divViola{
+    background-color: #7550FE;
+    max-width: 100% !important;
+    h1{
+        color: white;
+    }
+    p{
+        color: white;
+    }
+    button:nth-child(1){ padding-right: 2em;
+           padding-left: 2em;
+           padding-top: 1em;
+           padding-bottom: 1em;
+ background-color: #1ACB98;
+    }
+    button:nth-child(2){ padding-right: 2em;
+           padding-left: 2em;
+           padding-top: 1em;
+           padding-bottom: 1em;
+ background-color: white;
+    }
+}
+
+h2{
+    color:red;
+}

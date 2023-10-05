@@ -1,0 +1,13 @@
+div {
+  display: flex;
+  flex-direction: column;
+}
+div h1 {
+  font-weight: bold;
+}
+@media screen and (min-width: 768px) {
+  div {
+    flex-direction: row;
+    font-weight: lighter;
+  }
+}/*# sourceMappingURL=style.css.map */
